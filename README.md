@@ -27,6 +27,7 @@ It's very hard to develop a one size fits all code of conduct for open source co
 * Yahoo: http://yahoo.github.io/codeofconduct
 * Facebook: [https://code.facebook.com](https://code.facebook.com/pages/876921332402685)
 * GitHub: TODO
+* Atom: http://blog.atom.io/2015/07/20/code-of-conduct.html
 
 #### Can I apply this code of conduct for conferences or events?
 
